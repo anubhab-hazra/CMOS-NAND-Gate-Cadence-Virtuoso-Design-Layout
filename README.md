@@ -32,6 +32,3 @@ Two-input CMOS NAND gate design implemented at transistor level. Verified using 
 - **Layout (Layout XL)** → clean design, DRC/LVS verified  
 - **Simulation waveforms** → functional truth table validation  
 
----
-
-## 📂 Repository structure (recommended)
